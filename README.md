@@ -3,9 +3,9 @@
 #### Prazer, Sou o Andre! Um cara que ama tecnologia👨‍💻
 
 - 🎓Cursando Alura & BootCamps Rocketseat
-- 💻Experiencia: UX, JavaScript, SQL
-- 📚Estou aprendendo: TypeScript, html, css, Nodejs, Dart, Flutter, React, ReactNative.
-- 🎯 Tenho interesse: C#, Lua, Deno, Ruby.
+- 💻Experiencia: UX, JavaScript, SQL, html, css
+- 📚Estou aprendendo: TypeScript, Nodejs, React, ReactNative.
+- 🎯 Tenho interesse: C#, Lua, Deno, Ruby, Flutter, Dart.
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
 
