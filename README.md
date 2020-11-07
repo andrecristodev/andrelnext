@@ -10,7 +10,6 @@
 </div>
 
 </br>
-</br>
 ### Falando sobre coisas pessoais:
 - 🛠 Atualmente, estou trabalhando com Node.js, Express.js, React, <br /> Graphql, Mongodb, Javascript 💻.
 - 👨🏻‍💻 Atualmente estou aprendendo Full Stack Development 🚀.
