@@ -11,8 +11,6 @@
 
 </br>
 </br>
-![GitHub followers](https://img.shields.io/github/followers/andrelnext?label=Segue-me&style=social)
-
 ### Falando sobre coisas pessoais:
 - 🛠 Atualmente, estou trabalhando com Node.js, Express.js, React, <br /> Graphql, Mongodb, Javascript 💻.
 - 👨🏻‍💻 Atualmente estou aprendendo Full Stack Development 🚀.
@@ -52,8 +50,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=andrelnext&show_icons=true&hide_border=true)
- 
+<p align = "center">
+  <p align = "center">
+    <a href="https://github.com/andrelnext"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelnext&layout=compact&theme=dark"/></a> 
+    <a href="https://github.com/andrelnext"><img src="https://github-readme-stats.vercel.app/api?username=andrelnext&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="andrelnext"/></a>
+  </p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Eu amo me conectar com pessoas diferentes</b> então se você quer me conhecer <b>eu, ficarei feliz em conhecê-lo mais!</b> 😊</em>
 
 <div align="center">
