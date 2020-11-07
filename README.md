@@ -55,8 +55,6 @@
     <a href="https://github.com/andrelnext"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelnext&layout=compact&theme=dark"/></a> 
     <a href="https://github.com/andrelnext"><img src="https://github-readme-stats.vercel.app/api?username=andrelnext&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="andrelnext"/></a>
   </p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Eu amo me conectar com pessoas diferentes</b> então se você quer me conhecer <b>eu, ficarei feliz em conhecê-lo mais!</b> 😊</em>
-
 <div align="center">
 ❤️ Mostrar alguns estrelando alguns dos repositórios!</br>
 </div>
