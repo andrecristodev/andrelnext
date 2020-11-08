@@ -23,7 +23,7 @@
 [![](https://img.shields.io/badge/-Alura-blue?style=flat-square&logo=&logoColor=white&link=https://cursos.alura.com.br/user/cristo-andre/fullCertificate/ef6b2f3d6d8555f7703b5b5f58f2765c)](https://cursos.alura.com.br/user/cristo-andre/fullCertificate/ef6b2f3d6d8555f7703b5b5f58f2765c)
 
 ### :man_technologist: Minha stack atual:
- - **Linguagem de Programação**: JavaScript, TypeScript
+ - **Experiencia**: UX, JavaScript, TypeScript, SQL, html, css
  - **Frameworks**: React, React-Native, Nodejs
  - **Banco de Dados**: SqlServer, MySql, MongoDB, Firebase
  - **Outras Ferramentas**: Git, Docker, Linux, MacOS;
