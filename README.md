@@ -53,9 +53,9 @@
 
 <p align = "center">
   <p align = "center">
-    <a href="https://github.com/andrelnext"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelnext&layout=compact&theme=dark"/></a> 
-    <a href="https://github.com/andrelnext"><img src="https://github-readme-stats.vercel.app/api?username=andrelnext&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="andrelnext"/></a>
-  </p>
+    <a href="https://github.com/andrelnext"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelnext&hide_border=true"/></a> 
+    <a href="https://github.com/andrelnext"><img src="https://github-readme-stats.vercel.app/api?username=andrelnext&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="andrelnext"/></a>
+  </p> 
 <div align="center">
 ❤️ Mostrar alguns estrelando alguns dos repositórios!</br>
 </div>
