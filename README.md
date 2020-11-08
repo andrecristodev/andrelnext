@@ -26,19 +26,18 @@
  - **Experiencia**: UX, JavaScript, TypeScript, SQL, html, css
  - **Frameworks**: React, React-Native, Nodejs
  - **Banco de Dados**: SqlServer, MySql, MongoDB, Firebase
- - **Outras Ferramentas**: Git, Docker, Linux, MacOS;
+ - **Outras Ferramentas**: Git, Linux, MacOS;
  
  ### 📚 O que estou aprendendo: 
  - **Linguagem de Programação**: Lua, Ruby, Elixir, Dart
  - **Frameworks**: Flutter 
  - **Outras Ferramentas**: GraphQL, Google Cloud Platform, Amazon AWS
- - **Escola Fullstack**: [Alura](https://alura.com.br/)
- - **Escola Fullstack**: [Rocketseat](https://rocketseat.com.br/)
+ - **Escola Fullstack**: [Alura](https://alura.com.br/), [Rocketseat](https://rocketseat.com.br/)
  
  ### ✔️ Meu ambiente de desenvolvimento:
  - **Sistema Operacional**: Windows
  - **Editor**: Visual Studio 2019, Visual Studio Code, Atom, Notepad ++ 
- - **Ferramentas mais usadas**: Git, Docker, Figma, Adobe XD
+ - **Ferramentas mais usadas**: Git, Figma, Adobe XD
  
 ### Idiomas e Ferramentas:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
