@@ -5,39 +5,35 @@
 <h4>Meu nome é Andre, sou desenvolvedor brasileiro de back-end / front-end / Mobile. Estou interessado em melhorar minhas habilidades como desenvolvedor e aprender sobre mais sobre a tecnologia, Atualmente, estou trabalhando com Node.js, React, Graphql, Mongodb, Javascript 💻.<h4> 
 </br>
 
-### :man_technologist: Minha stack atual:
- - **Experiencia**: UX, JavaScript, TypeScript, SQL, html, css
- - **Frameworks**: React, React-Native, Nodejs
- - **Banco de Dados**: SqlServer, MySql, MongoDB, Firebase
- - **Outras Ferramentas**: Git, Linux, MacOS;
- 
- ### 📚 O que estou aprendendo: 
- - **Linguagem de Programação**: Lua, Ruby, Elixir, Dart
- - **Frameworks**: Flutter 
- - **Outras Ferramentas**: GraphQL, Google Cloud Platform, Amazon AWS
- - **Escola Fullstack**: [Alura](https://alura.com.br/), [Rocketseat](https://rocketseat.com.br/)
- 
- ### ✔️ Meu ambiente de desenvolvimento:
- - **Sistema Operacional**: Windows
- - **Editor**: Visual Studio 2019, Visual Studio Code, Atom, Notepad ++ 
- - **Ferramentas mais usadas**: Git, Figma, Adobe XD
- 
-### Idiomas e Ferramentas:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypesScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataBase-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataBase-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataBase-Sql_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-BitBucket-informational?style=flat&logo=bitbucket&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Serverless-informational?style=flat&logo=serverless&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure-devops&logoColor=white&color=2bbc8a)
+
 
 **Contato**
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtoandre.bragadecristo2002@gmail.com)](mailto:andre.bragadecristo2002@gmail.com)  [![](https://img.shields.io/badge/-Rockseat-purple?style=flat-square?logo=Apache-RocketMQColor=white&link=https://https://app.rocketseat.com.br/me/andre-braga-de-cristo-1585936969)](https://app.rocketseat.com.br/me/andre-braga-de-cristo-1585936969)
 [![](https://img.shields.io/badge/-Alura-blue?style=flat-square&logo=&logoColor=white&link=https://cursos.alura.com.br/user/cristo-andre/fullCertificate/ef6b2f3d6d8555f7703b5b5f58f2765c)](https://cursos.alura.com.br/user/cristo-andre/fullCertificate/ef6b2f3d6d8555f7703b5b5f58f2765c)
+
+## &#x1f4c8; GitHub Stats
 
   <p align = "center">
     <a href="https://github.com/andrelnext"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelnext&layout=compact&hide_border=true"/></a> 
