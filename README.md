@@ -2,7 +2,7 @@
   <h1>Andre:man_technologist:</h1> 
 </div>
 
-<h4>Meu nome é Andre, sou desenvolvedor brasileiro de back-end / front-end / Mobile. Estou interessado em melhorar minhas habilidades como desenvolvedor e aprender sobre mais sobre a tecnologi, Atualmente, estou trabalhando com Node.js, React, Graphql, Mongodb, Javascript 💻.<h4> 
+<h4>Meu nome é Andre, sou desenvolvedor brasileiro de back-end / front-end / Mobile. Estou interessado em melhorar minhas habilidades como desenvolvedor e aprender sobre mais sobre a tecnologia, Atualmente, estou trabalhando com Node.js, React, Graphql, Mongodb, Javascript 💻.<h4> 
 </br>
 
 ### :man_technologist: Minha stack atual:
