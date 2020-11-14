@@ -2,7 +2,7 @@
   <h1>Andre:man_technologist:</h1> 
 </div>
 
-<h4>My name is André, I'm a Brazilian developer back-end / front-end / Mobile. I am interested in improving my skills as a developer and learning about more about the technology, I am currently working with Node.js, React, Graphql, Mongodb, Javascript 💻.<h4> 
+<h4>My name is André, I'm a Brazilian developer back-end / front-end / Mobile. I am interested in improving my skills as a developer and learning about more about the technology, I am currently working with Node.js, React, Vue, Heidimysql, Javascript, Styled-Components, TypeScript, Lua 💻.<h4> 
 </br>
 
 ## 🔧 Technologies & Tools
