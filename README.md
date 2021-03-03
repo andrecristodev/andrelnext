@@ -3,7 +3,16 @@
 </div>
 
 <h4 align="center">A developer focused on learning and continually improving his knowledge of his skills and main languages<h4> 
-</br>
+</br> 
+  
+- 🔭 I’m currently working on studio b.c
+
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/andrelnext?tab=repositories)
+
+- 🚀 Main Skills **React, Node, JavaScript, HTML, CSS*
+
+- 📫 How to reach me **andre.bragadecristo2002@gmail.com**
+
   
 <p align="center">
  🔧 Technologies & Tools  
