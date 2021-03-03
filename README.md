@@ -11,7 +11,7 @@
 
 - 🚀 Main Skills **React, Node, JavaScript, HTML, CSS*
 
-- 📫 How to reach me [contato](andre.bragadecristo2002@gmail.com)
+- 📫 How to reach me [contact](andre.bragadecristo2002@gmail.com)
 
   
 <p align="center">
