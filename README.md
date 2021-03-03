@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 </p>
 
-## &#x1f4c8; GitHub Stats
+<p align="center"> &#x1f4c8; GitHub Stats</p>
 
   <p align = "center">
     <a href="https://github.com/andrelnext"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelnext&layout=compact&hide_border=true"/></a> 
