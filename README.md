@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/andrelnext?tab=repositories)
 
-- 🚀 Main Skills **React, Node, JavaScript, HTML, CSS*
-
 - 📫 How to reach me [contact](andre.bragadecristo2002@gmail.com)
 
   
