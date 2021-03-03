@@ -15,7 +15,7 @@
 
   
 <p align="center">
- 🔧 Technologies & Tools  
+ Technologies & Tools  
 </p>  
 
 <p align="center">
