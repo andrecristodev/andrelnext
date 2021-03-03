@@ -25,7 +25,8 @@
     <a href="https://github.com/andrelnext"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelnext&layout=compact&hide_border=true"/></a> 
     <a href="https://github.com/andrelnext"><img src="https://github-readme-stats.vercel.app/api?username=andrelnext&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="andrelnext"/></a>
   </p>  
-  
+    
+  </br>         
   </br>
 <p align="center">
   <a href="https://codepen.io/andrebc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Next" height="20" width="20" /></a>
