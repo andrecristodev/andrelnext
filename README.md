@@ -34,5 +34,4 @@
   <a href="https://codepen.io/andrebc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Next" height="20" width="20" /></a>
   <a href="https://www.linkedin.com/in/andre-cristo-998341200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Next" height="20" width="20" /></a>
   <a href="https://stackoverflow.com/andrebc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Next" height="20" width="20" /></a>
-  <a href="https://fb.com/studiobc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Next" height="20" width="20" /></a>
 </p>
