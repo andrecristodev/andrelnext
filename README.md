@@ -6,7 +6,7 @@
 </br>
   
 <p align="center">
-## 🔧 Technologies & Tools  
+ 🔧 Technologies & Tools  
 </p>
 
 <p align="center">
@@ -20,11 +20,13 @@
 </p>
 
 
-**Contact**
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtocontato.andrebc@outlook.com)](mailto:contato.andrebc@outlook.com)  [![](https://img.shields.io/badge/-Rockseat-purple?style=flat-square?logo=Apache-RocketMQColor=white&link=https://https://app.rocketseat.com.br/me/andre-braga-de-cristo-1585936969)](https://app.rocketseat.com.br/me/andre-braga-de-cristo-1585936969)
-[![](https://img.shields.io/badge/-Alura-blue?style=flat-square&logo=&logoColor=white&link=https://cursos.alura.com.br/user/cristo-andre/fullCertificate/ef6b2f3d6d8555f7703b5b5f58f2765c)](https://cursos.alura.com.br/user/cristo-andre/fullCertificate/ef6b2f3d6d8555f7703b5b5f58f2765c)
-[![](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=&logoColor=white&link=https://www.linkedin.com/in/andre-cristo-998341200)](https://www.linkedin.com/in/andre-cristo-998341200)
+  <p align="center">
+<a href="https://codepen.io/andrebc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Next" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/andre-cristo-998341200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Next" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/andrebc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Next" height="20" width="20" /></a>
+<a href="https://fb.com/studiobc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Next" height="20" width="20" /></a>
+</p>
 
 ## &#x1f4c8; GitHub Stats
 
