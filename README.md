@@ -47,3 +47,11 @@
   <a href="https://stackoverflow.com/users/15325407/andre-cristo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Next" height="20" width="20" /></a> 
   <a href="https://www.behance.net/andrebc" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-plain.svg" alt="Next" height="20" width="20" /></a> 
 </p>
+ <p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+ </p>
+
+</p>
