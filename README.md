@@ -2,7 +2,7 @@
   <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Andre</h1>
 </div>
 
-<h4 align="center">A developer focused on learning and continually improving his knowledge of his skills and main languages<h4> 
+<h4 align="center">A developer self-taught focused on learning and continually improving his knowledge of his skills and main languages<h4> 
 </br> 
   
 - 🔭 I’m currently working on studio b.c
