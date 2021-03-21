@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/andrelnext?tab=repositories)
 
-- 📫 How to reach me [contact](mailto:andre.bragadecristo2002@gmail.com)
+- 📫 How to reach me [contact](mailto:andre.ceo@nextsoftwarelab.com)
 
   
 <p align="center">
