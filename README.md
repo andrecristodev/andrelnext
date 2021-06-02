@@ -5,7 +5,7 @@
 <h4 align="center">A developer self-taught focused on learning and continually improving his knowledge of his skills and main languages<h4> 
 </br> 
   
-- 🔭 I’m currently working on Yeezy Labs
+- 🔭 I’m currently working on Really Dark Studios
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/andrelnext?tab=repositories)
 
