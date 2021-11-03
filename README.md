@@ -4,8 +4,6 @@
 
 <h4 align="center">A developer self-taught focused on learning and continually improving his knowledge of his skills and main languages<h4> 
 </br> 
-  
-- 🔭 I’m currently working (CEO/CTO) on Next Hat development
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/andrelnext?tab=repositories)
 
