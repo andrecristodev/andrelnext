@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/andrelnext?tab=repositories)
 
-- 📫 How to reach me [contact](mailto:andre.ceo@nextsoftwarelab.com)
+- 📫 How to reach me [contact](mailto:contato.andredevbr@gmail.com)
 
   
 <p align="center">
