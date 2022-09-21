@@ -33,7 +33,7 @@
 
 Estas são algumas das tecnologias e ferramentas que utilizo:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jest,react,nextjs,styledcomponents,sass,tailwind,docker,nodejs,firebase,mongodb
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jest,react,nextjs,styledcomponents,sass,tailwind
 )](https://skillicons.dev)
 
 ### 😂 Random Dev Meme
