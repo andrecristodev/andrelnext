@@ -36,9 +36,6 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jest,react,nextjs,styledcomponents,sass,tailwind
 )](https://skillicons.dev)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 ![Andre GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=andrelnext&hide_border=true&theme=redical)
