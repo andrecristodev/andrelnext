@@ -11,7 +11,7 @@
 
 <p>
   <em>
-    Tenho 20 anos, sou de Curitiba e atualmente estou trabalhando como um Desenvolvedor Front-End no Grupo Santa
+    Tenho 21 anos, sou de Curitiba e atualmente estou trabalhando como um Desenvolvedor Front-End no Grupo Santa
   </em>
 </p>
 
@@ -35,10 +35,6 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jest,react,nextjs,styledcomponents,sass,tailwind
 )](https://skillicons.dev)
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![Andre GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=andrelnext&hide_border=true&theme=redical)
 
   </br>     
   
