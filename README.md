@@ -20,7 +20,7 @@
 - 📫 Meu email: [contact](mailto:contato.andredevbr@gmail.com)
 
 
-### 📊 Metas 2022:
+### 📊 Metas 2023:
 
 - 📂 Expandir meu portfólio
 
